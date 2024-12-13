@@ -59,4 +59,11 @@ This project focuses on creating a visually appealing, responsive, and accessibl
 - Projects requiring user-friendly and visually polished registration forms.  
 - Anyone aiming to create interactive and engaging web applications.  
 
+ **Preview:**
+
+ 
+<img width="958" alt="Screenshot 2024-12-13 at 6 06 44 PM" src="https://github.com/user-attachments/assets/ad14fcbb-52d7-49da-9a7b-cb38c9133216" />
+
+
+
 Feel free to customize the form and styling to match your project’s branding or functional needs!
